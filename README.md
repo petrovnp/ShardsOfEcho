@@ -11,7 +11,7 @@
 ## Что здесь
 
 - **[Lyrics](Lyrics/)** — тексты песен проекта. Авторские стихи Николая Петрова.
-- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — «Хранители миров»: канон вымышленной вселенной, на основе которой строятся песни и истории.
+- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — «Хранители миров»: канон вымышленной вселенной, на основе которой строятся некоторые песни и истории.
 
 ## Авторство и права
 
@@ -30,7 +30,7 @@
 ## Contents
 
 - **[Lyrics](Lyrics/)** — song lyrics of the project. Original works by Nikolay Petrov.
-- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — *Keepers of the Worlds*: the canon of the fictional universe behind the songs and stories.
+- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — *Keepers of the Worlds*: the canon of the fictional universe behind some songs and stories.
 
 ## Authorship & rights
 
