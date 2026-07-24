@@ -6,12 +6,12 @@
 
 **YouTube:** https://www.youtube.com/@ShardsOfEcho
 
-Музыкальный проект **ОсколкиЭха** — авторские песни на русском языке и вымышленная вселенная, что стоит за ними. Этот репозиторий — открытый архив текстов и канона: подтверждение авторства и место, где собрано всё вместе.
+**ОсколкиЭха** — авторский проект: песни на русском языке и вымышленная вселенная «Хранители миров», которая выросла из них в книги. Этот репозиторий — открытый архив: тексты песен, канон вселенной и сами книги. Место, где собрано всё вместе, и подтверждение авторства.
 
 ## Что здесь
 
 - **[Lyrics](Lyrics/)** — тексты песен проекта. Авторские стихи Николая Петрова.
-- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — «Хранители миров»: канон вымышленной вселенной, на основе которой строятся некоторые песни и истории.
+- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — «Хранители миров»: канон вымышленной вселенной и книги по ней. Первая книга — **«На грани мира»** — завершена: доступна в электронном виде (EPUB / FB2 / PDF) и в печати.
 
 ## Авторство и права
 
@@ -25,12 +25,12 @@
 
 **YouTube:** https://www.youtube.com/@ShardsOfEcho
 
-**ShardsOfEcho** is a music project — original songs in Russian and the fictional universe behind them. This repository is an open archive of the lyrics and the lore: a record of authorship and a place where everything lives together.
+**ShardsOfEcho** is an authorial project: original songs in Russian and the fictional universe *Keepers of the Worlds* that has grown out of them into books. This repository is an open archive — song lyrics, the universe's canon, and the books themselves: a place where everything lives together and a record of authorship.
 
 ## Contents
 
 - **[Lyrics](Lyrics/)** — song lyrics of the project. Original works by Nikolay Petrov.
-- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — *Keepers of the Worlds*: the canon of the fictional universe behind some songs and stories.
+- **[Keepers_of_the_Worlds](Keepers_of_the_Worlds/)** — *Keepers of the Worlds*: the canon of the fictional universe and the books set in it. The first book, **"Na grani mira"**, is complete — available as an e-book (EPUB / FB2 / PDF) and in print.
 
 ## Authorship & rights
 
